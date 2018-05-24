@@ -6,4 +6,4 @@ Se selecionar cadastro, precisará completar os dados (nome, nascimento, peso, a
 
 Se selecionar consulta de dados, deverá aparecer uma lista de nomes já cadastrados e a pessoa selecionará o seu. Aparecerá a sua ficha cadastral, onde ela poderá verificar todas as informações colhida pelos médicos.
 
-E, por fim, se a pessoq quiser agendar uma consulta com o médico, terá um campo para que ela irá insirir o nome do especialista e o programa imprimirá o contato dele (nome completo, telefone e e-mail) e o paciente poderá marcar por qualquer um dos meios apresentados.
+E, por fim, se a pessoa quiser agendar uma consulta com o médico, terá um campo para que ela insira o nome do especialista e o programa imprimirá o contato dele (nome completo, telefone e e-mail) e o paciente poderá marcar por qualquer um dos meios apresentados.
