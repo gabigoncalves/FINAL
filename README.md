@@ -1,5 +1,8 @@
-# PROJETO FINAL (Ficha Médica)
+# PROJETO FINAL
 
+## Ficha Médica
+
+### Descrição:
 O usuário informará o tipo de acesso que quer fazer: cadastro, consulta de dados ou agendamento de consulta médica.
 
 Se selecionar cadastro, precisará completar os dados (nome, nascimento, peso, altura, data da ultima consulta, remédios sugeridos...) e gravar no banco de dados do consultório.
